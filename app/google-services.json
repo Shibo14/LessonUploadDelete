@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240809440881",
+    "project_id": "lessonuploaddelete",
+    "storage_bucket": "lessonuploaddelete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240809440881:android:bf898eac9ee3bf3f438dd0",
+        "android_client_info": {
+          "package_name": "com.example.lessonuploaddelete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240809440881-nb1lnt53sco5k6s731vtq34dpviauq2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbS3ChBzgR6lIMuiPgU-G2ctlwfrISfr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240809440881-nb1lnt53sco5k6s731vtq34dpviauq2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
